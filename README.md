@@ -9,18 +9,21 @@ In this project we are performing web scraping from active **Nasa’s** websites
 - **Chrome Developer Tool** to identify HTML and CSS components.
 - **Beautiful Soup** (extracts data) and **Splinter** (automates web browsers) to automate the scrape [jupyter notebook](Mission_to_Mars_Challenge.ipynb).
 - **Python** to write the script [scraping.py](scraping.py).
-- **MongoDB**, a NoSQL database to store data. MongoDB can handle the data that isn’t structured, data without relationships to other data. Instead Mongo uses a document model which means that data is stored in JSON data structures.
+- **MongoDB**, MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.
 - **Flask** to render the data and create a web application [app.py](app.py).
 - **HTML**, **CSS** and **Bootstrap 3** to customize web application [index.html](templates/index.html).
 
 <p align="center">  
-<img src="Images/Mars-hemisphere_thumb.PNG" width="70%" height="70%">
+  
+<img src="Images/Mars-hemisphere_thumb.png" width="70%" height="70%">
+  
 </p>
 
 
 Data Source:
 - https://mars.nasa.gov/news/
-- https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars
+- https://redplanetscience.com/
+- https://spaceimages-mars.com
 - https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars
 
 Environment: 
