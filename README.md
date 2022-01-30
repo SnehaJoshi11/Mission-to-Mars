@@ -22,7 +22,8 @@ In this project we are performing web scraping from active **Nasa’s** websites
 
 Data Source:
 - https://mars.nasa.gov/news/
-- https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars
+- https://redplanetscience.com/
+- https://spaceimages-mars.com
 - https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars
 
 Environment: 
