@@ -15,7 +15,7 @@ In this project we are performing web scraping from active **Nasa’s** websites
 
 <p align="center">  
   
-<img src="Images/Mars-hemisphere_thumb.PNG" width="70%" height="70%">
+<img src="Images/Mars-hemisphere_thumb.png" width="70%" height="70%">
   
 </p>
 
