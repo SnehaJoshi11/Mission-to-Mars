@@ -44,7 +44,7 @@ Software:
  - Adding the hemisphere images as thumbnails.
  
 <p align="center">  
-<img src="Images/Mission-to-Mars-hemisphere_Center_thumb.png" width="70%" height="70%">
+<img src="Images/Mars-hemisphere_Center_thumb_Custom.png" width="70%" height="70%">
 </p>
 
 
